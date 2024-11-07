@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
-
+This chip has a secret code. Figure out the code to activate the "lock." Success will be indicated by a light.
+ 
 ## How to test
 
-Explain how to use your project
+Troubleshoot until you get the code.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+7-Segment Display, LED
